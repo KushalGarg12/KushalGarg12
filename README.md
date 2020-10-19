@@ -59,7 +59,7 @@ Apart from my research in the field of Data Science , I enjoy listening music ğŸ
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalGarg12&repo=Diabetes checkup app" />
 </a>
 
-<a href="https://github.com/KushalGarg12/Heart-Disease-check-app">
+<a href="https://github.com/KushalGarg12/Heart_Disease-check-app">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalGarg12&repo=Heart Disease check app" />
 </a>
 
