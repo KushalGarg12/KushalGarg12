@@ -44,11 +44,11 @@ Apart from my research in the field of Data Science , I enjoy listening music �
 <code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/apple-icon.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/AirflowLogo.png"></code>
 
-![Aniruddha's github stats](https://github-readme-stats.vercel.app/api?username=aniruddhachoudhury&show_icons=true&hide_border=true)
+![Kushal's github stats](https://github-readme-stats.vercel.app/api?username=KushalGarg12&show_icons=true&hide_border=true)
 
-:pushpin: Star and Fork this [README](https://github.com/aniruddhachoudhury/aniruddhachoudhury) :pencil:
+:pushpin: Star and Fork this [README](https://github.com/KushalGarg12/) :pencil:
 
-💻 Recent projects in which I have contributed in my [gituhb](https://github.com/aniruddhachoudhury)
+💻 Recent projects in which I have contributed in my [gituhb](https://github.com/KushalGarg12)
 
 
 <a href="https://github.com/aniruddhachoudhury/Stock-Market-Analysis">
