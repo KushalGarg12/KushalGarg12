@@ -32,7 +32,7 @@ Apart from my research in the field of Data Science , I enjoy listening music ðŸ
 &nbsp;
 
 **Languages and Tools and Cloud:**
-<code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/avatar?raw=true"></code>
+<code><img height="20" src="https://github.com/KushalGarg12/Credit-Risk-Model/blob/master/avatar?raw=true"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/1024px-Microsoft_Azure_Logo.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/1*WCsqMt85nMP0DvYv0JnkOA.png"></code>
 <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/Pytorch_logo.png"></code>
@@ -51,20 +51,20 @@ Apart from my research in the field of Data Science , I enjoy listening music ðŸ
 ðŸ’» Recent projects in which I have contributed in my [gituhb](https://github.com/KushalGarg12)
 
 
-<a href="https://github.com/aniruddhachoudhury/Stock-Market-Analysis">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aniruddhachoudhury&repo=Stock-Market-Analysis" />
+<a href="https://github.com/KushalGarg12/Salary prediction app">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalGarg12&repo=Salary prediction app" />
 </a>
 
-<a href="https://github.com/aniruddhachoudhury/BERT-Tutorials">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=aniruddhachoudhury&repo=BERT-Tutorials" />
+<a href="https://github.com/KushalGarg12/Diabetes checkup app">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalGarg12&repo=Diabetes checkup app" />
 </a>
 
-<a href="https://github.com/kubeflow/kubeflow">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aniruddhachoudhury&repo=kubeflow" />
+<a href="https://github.com/KushalGarg12/Heart Disease check app">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalGarg12&repo=Heart Disease check app" />
 </a>
 
-<a href="https://github.com/aniruddhachoudhury/Data-Science-Books">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=aniruddhachoudhury&repo=Data-Science-Books" />
+<a href="https://github.com/KushalGarg12/Stock Sentiment Analysis">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalGarg12&repo=Stock Sentiment Analysis" />
 </a>
 
 
