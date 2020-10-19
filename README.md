@@ -52,7 +52,7 @@ Apart from my research in the field of Data Science , I enjoy listening music ğŸ
 
 
 <a href="https://github.com/KushalGarg12/Salary-prediction-app">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalGarg12&repo=Salary prediction app" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalGarg12&repo=Salary-prediction-app" />
 </a>
 
 <a href="https://github.com/KushalGarg12/Diabetes-checkup-app">
