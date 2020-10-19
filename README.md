@@ -16,7 +16,7 @@ Apart from my research in the field of Data Science , I enjoy listening music ðŸ
 
 "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/3oFzlVJAzNUDwvpcc0/giphy.gif" />
 
 
 **Talking about Experiences/Achievements:**
@@ -48,7 +48,7 @@ Apart from my research in the field of Data Science , I enjoy listening music ðŸ
 
 :pushpin: Star and Fork this [README](https://github.com/KushalGarg12/) :pencil:
 
-ðŸ’» Recent projects in which I have contributed in my [gituhb](https://github.com/KushalGarg12)
+ðŸ’» Recent projects in which I have contributed in my [gituhub](https://github.com/KushalGarg12)
 
 
 <a href="https://github.com/KushalGarg12/Salary-prediction-app">
