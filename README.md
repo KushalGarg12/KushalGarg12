@@ -51,19 +51,19 @@ Apart from my research in the field of Data Science , I enjoy listening music ðŸ
 ðŸ’» Recent projects in which I have contributed in my [gituhb](https://github.com/KushalGarg12)
 
 
-<a href="https://github.com/KushalGarg12/Salary prediction app">
+<a href="https://github.com/KushalGarg12/Salary-prediction-app">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalGarg12&repo=Salary prediction app" />
 </a>
 
-<a href="https://github.com/KushalGarg12/Diabetes checkup app">
+<a href="https://github.com/KushalGarg12/Diabetes-checkup-app">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalGarg12&repo=Diabetes checkup app" />
 </a>
 
-<a href="https://github.com/KushalGarg12/Heart Disease check app">
+<a href="https://github.com/KushalGarg12/Heart-Disease-check-app">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalGarg12&repo=Heart Disease check app" />
 </a>
 
-<a href="https://github.com/KushalGarg12/Stock Sentiment Analysis">
+<a href="https://github.com/KushalGarg12/Stock-Sentiment-Analysis">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalGarg12&repo=Stock Sentiment Analysis" />
 </a>
 
