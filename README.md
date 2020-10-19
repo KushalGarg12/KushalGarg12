@@ -32,7 +32,7 @@ Apart from my research in the field of Data Science , I enjoy listening music ğŸ
 &nbsp;
 
 **Languages and Tools and Cloud:**
-<code><img height="20" src="https://github.com/KushalGarg12/Credit-Risk-Model/blob/master/avatar?raw=true"></code>
+<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw0Xt7Xa0nA7S5quSYoYtXsQ&ust=1603217059790000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLj8yY6fwewCFQAAAAAdAAAAABAD"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/1024px-Microsoft_Azure_Logo.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/1*WCsqMt85nMP0DvYv0JnkOA.png"></code>
 <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/Pytorch_logo.png"></code>
