@@ -35,12 +35,12 @@ Apart from my research in the field of Data Science , I enjoy listening music ðŸ
 <code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/jupyter.png"></code>
 <code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/sklearn.png"></code>
 <code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/Flask.png"></code>
-<code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/sublime.jpg.png"></code>
+<code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/sublime.jpg"></code>
 <code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/web.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/hM6lnfw8_400x400.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/apple-icon.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/AirflowLogo.png"></code>
+<code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/matplotlib.png"></code>
+<code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/NLTK.png"></code>
+<code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/anaocnda.png"></code>
+
 
 ![Kushal's github stats](https://github-readme-stats.vercel.app/api?username=KushalGarg12&show_icons=true&hide_border=true)
 
