@@ -31,13 +31,12 @@ Apart from my research in the field of Data Science , I enjoy listening music ðŸ
 &nbsp;
 
 **Languages and Tools and Cloud:**
-<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw0Xt7Xa0nA7S5quSYoYtXsQ&ust=1603217059790000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLj8yY6fwewCFQAAAAAdAAAAABAD"></code>
 <code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/python.webp"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/1*WCsqMt85nMP0DvYv0JnkOA.png"></code>
-<code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/Pytorch_logo.png"></code>
-<code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/logo.png"></code>
-<code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/social_default-1d3b50b1eba4c2b06244425ff0c49570.jpg"></code>
-<code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/horizontal-logo-monochromatic-white.png"></code>
+<code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/jupyter.png"></code>
+<code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/sklearn.png"></code>
+<code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/Flask.png"></code>
+<code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/sublime.jpg.png"></code>
+<code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/web.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/hM6lnfw8_400x400.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/apple-icon.png"></code>
