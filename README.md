@@ -21,10 +21,9 @@ Apart from my research in the field of Data Science , I enjoy listening music �
 
 **Talking about Experiences/Achievements:**
 
-- 🥇 5-star on HackerRank in Problem Solving💻 <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/Wells_Fargo_Bank_logotype_logo_3D.jpg"></code> [@Wells fargo](https://www.hackerrank.com/kushal_12) 
-- 👨‍💻 Open to Data science Internships <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/incture-technologies_owler_20160227_014455_original.png"></code>[@Incture](https://incture.com/)
-- ⚡️  Techinical Blogger [Medium](https://medium.com/@aniruddha.choudhury94) and [Linkedin](https://www.linkedin.com/in/aniruddha-choudhury-5a34b511b/)
-- 🤝 Certified from IBM for Data science and Machine learning.
+- 🥇 5-star in Problem Solving💻 <code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/hackerrank.png"></code> [@HackerRank](https://www.hackerrank.com/kushal_12) 
+- 👨‍💻 Open to Data science Internships 
+- 🤝 Certified from IBM for Data science and Machine learning <code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/IBM.png"></code>[@Coursera](https://www.coursera.org/account/accomplishments/verify/HCS2JLX4SU9L)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: gargk0380@gmail.com
 
