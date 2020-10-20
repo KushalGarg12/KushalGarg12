@@ -21,19 +21,18 @@ Apart from my research in the field of Data Science , I enjoy listening music �
 
 **Talking about Experiences/Achievements:**
 
-- 🥇 Former  Data Scientist. from Wells Fargo 👨🏽‍💻 <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/Wells_Fargo_Bank_logotype_logo_3D.jpg"></code> [@Wells fargo](https://www.wellsfargo.com/)
-- 🎓 Contributor of Kubeflow community 👨🏽‍💼[@Kubeflow](https://www.kubeflow.org/) 
-- 👨‍💻 Former Senior Data Scientist at Incture Technologies<code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/incture-technologies_owler_20160227_014455_original.png"></code>[@Incture](https://incture.com/)
+- 🥇 5-star on HackerRank in Problem Solving💻 <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/Wells_Fargo_Bank_logotype_logo_3D.jpg"></code> [@Wells fargo](https://www.hackerrank.com/kushal_12) 
+- 👨‍💻 Open to Data science Internships <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/incture-technologies_owler_20160227_014455_original.png"></code>[@Incture](https://incture.com/)
 - ⚡️  Techinical Blogger [Medium](https://medium.com/@aniruddha.choudhury94) and [Linkedin](https://www.linkedin.com/in/aniruddha-choudhury-5a34b511b/)
-- 🤝 Certified Data Scientist from Michigan University
+- 🤝 Certified from IBM for Data science and Machine learning.
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: aniruddha.choudhury94@gmail.com
+- 📫 How to reach me: gargk0380@gmail.com
 
 &nbsp;
 
 **Languages and Tools and Cloud:**
 <code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw0Xt7Xa0nA7S5quSYoYtXsQ&ust=1603217059790000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLj8yY6fwewCFQAAAAAdAAAAABAD"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/1024px-Microsoft_Azure_Logo.svg.png"></code>
+<code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/python.webp"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/1*WCsqMt85nMP0DvYv0JnkOA.png"></code>
 <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/Pytorch_logo.png"></code>
 <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/logo.png"></code>
