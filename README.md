@@ -16,7 +16,7 @@ Apart from my research in the field of Data Science , I enjoy listening music ðŸ
 
 "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/3oFzlVJAzNUDwvpcc0/giphy.gif" />
+  <img height="600" align="right" alt="GIF" src="https://media.giphy.com/media/3oFzlVJAzNUDwvpcc0/giphy.gif" />
 
 
 **Talking about Experiences/Achievements:**
