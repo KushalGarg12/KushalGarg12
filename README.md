@@ -21,7 +21,7 @@ Apart from my research in the field of Data Science , I enjoy listening music �
 
 **Talking about Experiences/Achievements:**
 
-- 🥇 5-star in Problem Solving💻 <code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/hackerrank.png"></code> [@HackerRank](https://www.hackerrank.com/kushal_12) 
+- 🥇 5-star in Problem Solving <code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/hackerrank.png"></code> [@HackerRank](https://www.hackerrank.com/kushal_12) 
 - 👨‍💻 Open to Data science Internships 
 - 🤝 Certified from IBM for Data science and Machine learning <code><img height="15" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/IBM.png"></code>[@Coursera](https://www.coursera.org/account/accomplishments/verify/HCS2JLX4SU9L)
 - 💬 Ask me about anything, I am happy to help
