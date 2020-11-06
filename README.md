@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Kushal Garg!](https://github.com/KushalGarg12)
+### Hey there, I'm [Kushal Garg!](https://github.com/KushalGarg12)
 
 
 <a href="https://www.linkedin.com/in/KushalGarg12/">
