@@ -30,6 +30,10 @@ Apart from my research in the field of Data Science , I enjoy listening music ğŸ
 - ğŸ“« How to reach me: gargk0380@gmail.com
 
 &nbsp;
+**Projects:**
+- Diabetes Check app
+  [@Check your Diabetes](https://diabetes-check-app.herokuapp.com/)
+  
 
 **Languages and Tools and Cloud:**
 <code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/python.webp"></code>
