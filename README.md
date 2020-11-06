@@ -26,13 +26,21 @@ Apart from my research in the field of Data Science , I enjoy listening music �
 - 🤝 Certified from IBM for Data science <code><img height="15" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/IBM.png"></code>[@Certification](https://www.coursera.org/account/accomplishments/verify/U8Y76KZ83MDU) and Machine learning <code><img height="15" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/IBM.png"></code>[@Certification](https://www.coursera.org/account/accomplishments/verify/HCS2JLX4SU9L)
 - 🤝 Certified from Stanford University online course for Machine learning <code><img height="28" width="45" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/stanford.jpg"></code>[@Certification](https://www.coursera.org/account/accomplishments/verify/8FXLCRN7Q7LK)
 
+
+**Projects:**
+- Diabetes Check app
+  [@Check your Diabetes](https://diabetes-check-app.herokuapp.com/)
+- Heart Disease Check app
+  [@Check your Heart](https://heart-checkup.herokuapp.com/)
+- Salary Prediction app
+  [@Know your Worth](https://salary-calculation-app.herokuapp.com/)
+  
+  
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: gargk0380@gmail.com
 
 &nbsp;
-**Projects:**
-- Diabetes Check app
-  [@Check your Diabetes](https://diabetes-check-app.herokuapp.com/)
+
   
 
 **Languages and Tools and Cloud:**
