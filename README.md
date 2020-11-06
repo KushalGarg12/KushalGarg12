@@ -24,7 +24,7 @@ Apart from my research in the field of Data Science , I enjoy listening music �
 - 🥇 5-star in Problem Solving <code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/hackerrank.png"></code> [@HackerRank](https://www.hackerrank.com/kushal_12) 
 - 👨‍💻 Open to Data science Internships 
 - 🤝 Certified from IBM for Data science and Machine learning <code><img height="15" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/IBM.png"></code>[@Certification](https://www.coursera.org/account/accomplishments/verify/HCS2JLX4SU9L)
-- 🤝 Certified from Stanford university online course for Machine learning <code><img height="15" width="25" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/stanford.jpg"></code>[@Certification](https://www.coursera.org/account/accomplishments/verify/8FXLCRN7Q7LK)
+- 🤝 Certified from Stanford university online course for Machine learning <code><img height="20" width="45" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/stanford.jpg"></code>[@Certification](https://www.coursera.org/account/accomplishments/verify/8FXLCRN7Q7LK)
 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: gargk0380@gmail.com
