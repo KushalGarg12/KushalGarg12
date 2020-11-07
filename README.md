@@ -38,7 +38,7 @@ Apart from my research in the field of Data Science , I enjoy listening music �
   &nbsp;
   <br>
   
- 💬 Ask me about anything, I am happy to help
+ 💬 Ask me about anything, I am happy to help<br>
  📫 How to reach me: gargk0380@gmail.com
 
 
