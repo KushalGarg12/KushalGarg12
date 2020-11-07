@@ -83,7 +83,7 @@ Apart from my research in the field of Data Science , I enjoy listening music ðŸ
 <html>
   <body>
 <p style="color:red; font-size:40px;">HAPPY CODING ðŸ˜€</p>
-    <img height="50"  alt="GIF" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/tenor.gif" />
+    <img height="200" width="100"  alt="GIF" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/tenor.gif" />
   </body>
   </html>
   
