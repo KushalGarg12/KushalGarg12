@@ -45,7 +45,7 @@ Apart from my research in the field of Data Science , I enjoy listening music ðŸ
 
   
 
-**Languages and Tools and Cloud:**
+**Languages, Tools and Cloud:**
 <code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/python.webp"></code>
 <code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/jupyter.png"></code>
 <code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/sklearn.png"></code>
@@ -55,6 +55,7 @@ Apart from my research in the field of Data Science , I enjoy listening music ðŸ
 <code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/matplotlib.png"></code>
 <code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/NLTK.png"></code>
 <code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/anaocnda.png"></code>
+<code><img height="20" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/logo/heroku.png"></code>
 
 
 ![Kushal's github stats](https://github-readme-stats.vercel.app/api?username=KushalGarg12&show_icons=true&hide_border=true)
