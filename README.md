@@ -80,7 +80,7 @@ Apart from my research in the field of Data Science , I enjoy listening music ðŸ
 <a href="https://github.com/KushalGarg12/Stock-Sentiment-Analysis">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalGarg12&repo=Stock-Sentiment-Analysis" />
 </a>
-HAPPY CODING 
+H<hr>A<hr>P<hr>P<hr>Y<hr>C<hr>O<hr>D<hr>I<hr>N<hr>G 
 <img  align="center" height="290" width="1000"  alt="GIF" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/tenor.gif" />
 
 
