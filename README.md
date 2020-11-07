@@ -72,7 +72,7 @@ Apart from my research in the field of Data Science , I enjoy listening music ğŸ
 <a href="https://github.com/KushalGarg12/Diabetes_checkup_app">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalGarg12&repo=Diabetes_checkup_app" />
 </a>
- <img  align="center" height="190" width="172"  alt="GIF" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/tenor.gif" />
+ 
 <a href="https://github.com/KushalGarg12/Heart_Disease-check-app">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalGarg12&repo=Heart_Disease-check-app" />
 </a>
@@ -80,6 +80,7 @@ Apart from my research in the field of Data Science , I enjoy listening music ğŸ
 <a href="https://github.com/KushalGarg12/Stock-Sentiment-Analysis">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalGarg12&repo=Stock-Sentiment-Analysis" />
 </a>
+<img  align="center" height="190" width="500"  alt="GIF" src="https://github.com/KushalGarg12/KushalGarg12/blob/main/tenor.gif" />
 
 
 
